@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7a7f77ac5081619f50a508027a66335b",
+    "revision": "b2e230aa2586c6ba814ab60999cc1907",
     "url": "/Edilar/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Edilar/static/css/2.829c9cb5.chunk.css"
   },
   {
-    "revision": "1b94f4bb08262ba34f3d",
+    "revision": "c4d27ee0db9af803c86d",
     "url": "/Edilar/static/css/main.6fe2db4c.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Edilar/static/js/2.d2358cb7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1b94f4bb08262ba34f3d",
-    "url": "/Edilar/static/js/main.912c6867.chunk.js"
+    "revision": "c4d27ee0db9af803c86d",
+    "url": "/Edilar/static/js/main.5efaed37.chunk.js"
   },
   {
     "revision": "48546ca32a72fd45773f",
