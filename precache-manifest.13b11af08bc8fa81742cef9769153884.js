@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b2e230aa2586c6ba814ab60999cc1907",
+    "revision": "6a62b4692305ce402da847a5838657e3",
     "url": "/Edilar/index.html"
   },
   {
