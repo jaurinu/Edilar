@@ -1,0 +1,27 @@
+.Search {
+    background-color: #FFFFFF;
+    box-shadow: 0 4px 8px 0;
+    border-radius: 8px;
+    overflow: hidden;
+    height: 630px;
+    width: 100%;
+    max-width: 900px;
+    margin: 1rem auto;
+}
+
+.Search__header {
+    background-color: #1B1B25;
+    height: 80px;
+}
+
+.Search__movie {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.Search__section-info {
+    display: flex;
+    justify-content: center;
+    background-color: #f4f4f7;
+}
