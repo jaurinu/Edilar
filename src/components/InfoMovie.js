@@ -18,7 +18,7 @@ class InfoMovie extends React.Component {
         this.setState({loading: true, error: null})
 
         try{
-            const response = await fetch('http://www.omdbapi.com/?apikey=3d381535&t=inception')
+            const response = await fetch('https://www.omdbapi.com/?apikey=3d381535&t=inception')
             const data = await response.json();
             
             this.setState({
