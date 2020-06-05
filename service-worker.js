@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Edilar/precache-manifest.13b11af08bc8fa81742cef9769153884.js"
+  "/Edilar/precache-manifest.42d309d7394580c216c728dde316f699.js"
 );
 
 self.addEventListener('message', (event) => {
