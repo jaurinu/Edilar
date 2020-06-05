@@ -1,0 +1,19 @@
+.Card__container {
+    background-color: #f4f4f7;
+    width: 100%;
+    max-width: 600px;
+    max-height: 360px;
+    margin: 1rem auto;
+    padding: 1rem 1rem;
+}
+
+.Card__img {
+    width: 80%;
+}
+
+.Card__text__not__found {
+    font-family: 'Anton', sans-serif;
+    color: #81A460;
+    padding: 1rem ;
+    justify-content: center;
+  }
